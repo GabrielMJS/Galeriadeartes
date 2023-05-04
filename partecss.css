@@ -1,0 +1,93 @@
+/*HEADER FULL*/
+header{
+    font-family: 'Sigmar', cursive;
+    background-color: cornflowerblue;
+    text-align: center;
+    width: 100%;
+}
+#menu-h{
+    list-style: none;
+    padding: 2%; 
+}
+*{
+    margin: 0% auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+#menu-h li{
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+/*Divisões de assunto*/
+
+#ph{
+    font-family: 'Sigmar', cursive;
+    background-color: #87c8e0;
+    text-align: center;
+}
+#de{
+    font-family: 'Sigmar', cursive;
+    background-color:#87c8e0;
+    text-align: center; 
+}
+#pa{
+    font-family: 'Sigmar', cursive;
+    background-color:#87c8e0;
+    text-align: center; 
+}
+#gp{
+    font-family: 'Sigmar', cursive;
+    background-color:#87c8e0;
+    text-align: center;
+}
+
+/*Textos da divisões*/
+#retorno{
+    position:fixed;
+    margin-left: 97%;
+    margin-top: 33%;
+    background-color: rgb(255, 0, 0);
+}
+
+#Text-histart{
+    padding: 30px;
+    text-align: center;
+}
+#dive{
+    padding: 30px;
+    display: inline-block;
+    text-decoration: none;
+}
+#aut{
+    padding: 30px;
+    display: inline-block;
+    text-decoration: none;
+}
+#gpimg{
+    text-align: center;  
+}
+
+/*Divisões Gerais*/
+body{
+    background-color: #f2efdb;
+}
+
+
+footer{
+    background-color: #87c8e0; 
+}
+/*imagens*/
+.img{
+    height: 500px ;
+    
+}
+#Nome-obra{
+    font-family: 'Petit Formal Script', cursive;
+    text-decoration: underline;
+}
+#Desimg{
+    background-color: #87c8e0;
+
+}
